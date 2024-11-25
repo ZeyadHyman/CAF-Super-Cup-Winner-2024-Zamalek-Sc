@@ -59,20 +59,3 @@ The Zamalek CAF Super Cup Countdown is a playful project created to honor and ch
 3. Open the `index.html` file in your browser to view the website locally.
 
 ---
-
-## Contributions
-
-Contributions to make this countdown even more fun and engaging are welcome! Here’s how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your forked repository and submit a pull request.
-
----
