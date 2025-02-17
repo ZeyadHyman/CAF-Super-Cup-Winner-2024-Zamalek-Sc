@@ -1,8 +1,61 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Zamalek CAF Super Cup Countdown
 
-Currently, two official plugins are available:
+Welcome to the **Zamalek CAF Super Cup Countdown** website repository!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This fun project is designed to remind and celebrate the time left since **Zamalek SC** won the CAF Super Cup. It’s a simple yet engaging website that keeps track of the time in days, hours, minutes, and seconds.
+
+Visit the live website: [Zamalek CAF Super Cup Countdown](https://zamaleksupercub2024.netlify.app/)
+
+---
+
+## Project Overview
+
+The Zamalek CAF Super Cup Countdown is a playful project created to honor and cherish Zamalek SC’s remarkable achievement in winning the CAF Super Cup. It helps fans keep track of the exact time elapsed since this historic victory.
+
+---
+
+## Features
+
+- Displays a live countdown in:
+  - Weeks  
+  - Days
+  - Hours
+  - Minutes
+  - Seconds
+- Minimalistic and fun design to engage Zamalek SC fans.
+- Responsive layout for all device sizes.
+
+---
+
+## Technologies Used
+
+- **HTML5**: For structuring the webpage.
+- **Tailwind CSS**: To style the design with a modern, responsive, and clean look using utility-first CSS classes.
+- **JavaScript**: For dynamically updating the countdown timer.
+- **Netlify**: For hosting the live website.
+
+
+---
+
+## How to Use
+
+1. Visit the live website: [Zamalek CAF Super Cup Countdown](https://zamaleksupercub2024.netlify.app/).
+2. Enjoy watching the countdown and reminisce about Zamalek SC’s glorious victory.
+3. Share it with fellow Zamalek fans!
+
+---
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/[YourGitHubUsername]/zamalek-super-cup-countdown.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd zamalek-super-cup-countdown
+   ```
+3. Open the `index.html` file in your browser to view the website locally.
+
+---
